@@ -1,4 +1,5 @@
 name: Vercel Preview URL Lighthouse Audit
+description: This GitHub Action automatically runs Lighthouse on Vercel preview deployments performed automatically by the Vercel GitHub app.
 
 on:
   deployment
